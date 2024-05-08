@@ -6,3 +6,5 @@ data = {'Curry': [30], 'James': [23], 'Embiid': [21]}
 df = pd.DataFrame(data)
 
 print(df)
+
+print("Hi")

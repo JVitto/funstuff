@@ -60,3 +60,4 @@ def play():
         print("Player wins")
 
 play()
+#gambling!!!!
